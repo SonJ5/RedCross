@@ -1,0 +1,63 @@
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1434px !important;
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 285px) {
+  .nav-logo {
+    display: block;
+    margin: auto;
+  }
+  .nav-details {
+    margin: auto;
+  }
+  .repeat h4 {
+    font-size: 30px !important;
+    padding-bottom: none !important;
+  }
+  .expense {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  .expense-content {
+    margin: 10px;
+    border: 1px solid #d8dadb !important;
+  }
+  .gift-donate-amount-options {
+    display: block !important;
+  }
+  .gift-donate-value_price {
+    display: block !important;
+  }
+  .help-sub .repeat {
+    margin-top: 200px !important;
+  }
+  .help-dot {
+    visibility: hidden;
+  }
+  .help-bg-text {
+    visibility: hidden;
+  }
+  .help-records {
+    margin-top: 600px;
+    display: block;
+  }
+  .blog-card {
+    margin-top: 10px;
+  }
+  .foot-head {
+    display: block !important;
+  }
+  .foot-head-left {
+    display: block !important;
+  }
+  .contact {
+    display: block !important;
+  }
+}
